@@ -1,0 +1,7 @@
+! name: DeYelpify
+! description: get rid of Yelp.com
+! public: true
+! author: spaceagejohnny
+! avatar: #9244e0
+
+$discard,site=yelp.com
