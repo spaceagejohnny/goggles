@@ -1,0 +1,7 @@
+! name: noPinterest
+! description: get rid of Pinterest
+! public: true
+! author: spaceagejohnny
+! avatar: #9244e0
+
+$discard,site=pinterest.com
